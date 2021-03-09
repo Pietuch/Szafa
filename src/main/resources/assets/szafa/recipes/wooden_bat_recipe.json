@@ -1,0 +1,26 @@
+{
+  "group": "szafa",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "4": {
+      "item": "minecraft:planks",
+      "data": 32767
+    },
+    "6": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "szafa:wooden_bat",
+    "count": 1
+  }
+}

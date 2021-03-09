@@ -1,0 +1,47 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "WoodenBat",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_bat"
+    },
+    {
+      "name": "WoodenBatRecipe",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_bat_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.wooden_bat.name": "Wooden Bat"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "szafa",
+    "modName": "szafa",
+    "version": "1.0.0",
+    "author": "pietuch, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.pietuch.szafa",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
